@@ -1,0 +1,1442 @@
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-57-33"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-57-40"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 20-57-42"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 20-57-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 20-57-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-58-01"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 20-58-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 20-58-06"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 20-58-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-58-17"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 20-58-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-58-24"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 20-58-26"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-58-32"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 20-58-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-58-40"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 20-58-43"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 20-58-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 20-58-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 20-59-15"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 20-59-17"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 20-59-19"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 20-59-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-00-43"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-00-45"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-00-49"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-00-49"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-01-17"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-01-20"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-01-26"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-01-30"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-01-32"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-01-36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-01-36"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-01-40"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-01-43"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-01-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-01-45"}
+{"level":"info","message":"Custom Error","timestamp":"03-09-2025 21-01-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-08-19"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-08-22"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-08-27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-08-27"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-08-48"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-08-51"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-08-55"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-08-55"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"03-09-2025 21-09-03"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"03-09-2025 21-09-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-10-30"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-11-01"}
+{"level":"warn","message":"Email service ran into a problem","timestamp":"03-09-2025 21-11-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-11-37"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"03-09-2025 21-11-52"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"03-09-2025 21-12-00"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-12-21"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"03-09-2025 21-13-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-51-02"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"03-09-2025 21-51-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-51-39"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-51-41"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-51-43"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-51-43"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"03-09-2025 21-52-04"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"03-09-2025 21-52-04"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-53-17"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-53-20"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-53-24"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-53-27"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-53-29"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-53-29"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"03-09-2025 21-54-31"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"03-09-2025 21-54-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-55-44"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-55-47"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-55-52"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-55-52"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 21-55-57"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-56-43"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-56-48"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-56-48"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-56-50"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 21-56-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-57-11"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-57-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-57-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-57-26"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-57-29"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-57-31"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-57-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-57-53"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-57-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-58-03"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-58-03"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 21-58-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 21-58-54"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 21-58-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 21-59-00"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 21-59-00"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 21-59-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-00-45"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-00-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-00-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-00-55"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-00-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-01-01"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-01-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-01-30"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-01-43"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-01-46"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-01-50"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-01-52"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-01-56"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-01-56"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-01-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-02-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-02-29"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-02-35"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-02-38"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-02-38"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-02-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-02-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-04-12"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-04-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-04-19"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-04-23"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-04-31"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-04-33"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-04-36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-04-36"}
+{"level":"warn","message":"invalid expiresIn option for string payload","stack":"Error: invalid expiresIn option for string payload\n    at module.exports [as sign] (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\jsonwebtoken\\sign.js:158:22)\n    at TokenService.generate (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\shared\\auth\\tokenService.js:25:25)\n    at TokenService.generateRefreshToken (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\shared\\auth\\tokenService.js:36:17)\n    at model.<anonymous> (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\user\\models\\session.js:31:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"03-09-2025 22-04-41"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-04-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-05-11"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-05-14"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-05-19"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-05-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-05-29"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-05-31"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-05-34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-05-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-06-02"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-06-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-06-07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-06-07"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-08-52"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-08-53"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-08-55"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-08-55"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-10-07"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-10-08"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-10-10"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-10-10"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-10-12"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-11-47"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-11-48"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-11-49"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-11-49"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-14-39"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-14-48"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-15-05"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-15-08"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-15-11"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-15-11"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-15-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-15-40"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-15-43"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-15-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-15-47"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-15-50"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-15-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-18-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-19-15"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-19-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-19-21"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-19-23"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-19-25"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-19-25"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-19-56"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-19-59"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-20-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-20-02"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-20-29"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-20-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-21-03"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-21-06"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-21-10"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-21-10"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-21-16"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-21-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-26-59"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-27-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-27-08"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-27-08"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-27-20"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-28-08"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-28-13"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-28-16"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-28-18"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-28-18"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-28-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-28-45"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-28-48"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-28-50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-28-50"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-28-57"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-29-00"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-29-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-29-02"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-29-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-29-46"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-31-26"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-31-30"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-31-34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-31-34"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-31-37"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-31-58"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-32-03"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-32-05"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-32-05"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-32-08"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-34-41"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-34-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-34-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-35-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-35-50"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-36-02"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-36-05"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-36-08"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-36-08"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-36-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-36-27"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-36-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-36-36"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-36-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-37-04"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-37-09"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-37-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-37-17"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-37-20"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-37-22"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-37-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-37-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-38-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-38-11"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-38-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-38-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-38-29"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-38-32"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-38-37"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-38-37"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-38-40"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-38-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-39-41"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-39-43"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-40-25"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-40-28"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-40-30"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-40-30"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-40-37"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-40-37"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-41-03"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-41-05"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-41-06"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-41-06"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-41-13"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-41-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-41-46"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-41-49"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-41-52"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-41-52"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-42-32"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-42-32"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-43-12"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-43-16"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-43-18"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-43-21"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-43-21"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-43-22"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-43-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-43-55"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-43-58"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-44-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-44-07"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-44-13"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-44-16"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-44-20"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-44-20"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-44-22"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-44-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-45-23"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-45-26"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-45-31"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-45-31"}
+{"level":"warn","message":"Token Service Error","timestamp":"03-09-2025 22-45-36"}
+{"level":"error","message":"Error occurred","timestamp":"03-09-2025 22-45-36"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-47-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-47-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"03-09-2025 22-47-51"}
+{"level":"info","message":"Transporter verified","timestamp":"03-09-2025 22-47-53"}
+{"level":"info","message":"MongoDB connected","timestamp":"03-09-2025 22-47-56"}
+{"level":"info","message":"Server running on port 5000","timestamp":"03-09-2025 22-47-56"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-36-07"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-36-08"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-36-09"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-36-09"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-36-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-36-19"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-36-19"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-36-20"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-36-20"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-36-28"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-36-29"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-36-30"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-36-30"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-36-43"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-36-45"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-36-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-36-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-36-55"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-36-57"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-36-57"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-36-57"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-37-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-37-38"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-37-39"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-37-40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-37-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-39-43"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-39-44"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-39-46"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-39-46"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-39-51"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-39-52"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-39-53"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-39-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-40-12"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-40-13"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-40-14"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-40-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-41-04"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-41-05"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-41-06"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-41-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-47-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-47-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-47-18"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-47-19"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-47-20"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-47-20"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-47-30"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-47-31"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-47-32"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-47-32"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-47-59"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-48-00"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-48-07"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-48-09"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-48-16"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-48-17"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-48-18"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-48-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-48-24"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-48-25"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-48-26"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-48-26"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-48-38"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-48-39"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-48-54"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-48-55"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-48-55"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-48-55"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-49-11"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-49-19"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-49-20"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-49-20"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-49-20"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-49-26"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-49-27"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-49-28"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-49-28"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-49-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-49-52"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-49-53"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-49-53"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-49-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-50-06"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-50-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-50-23"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-50-24"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-50-28"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-50-29"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-50-29"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-50-29"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-50-39"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-50-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-50-43"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-50-44"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-50-49"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-51-40"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-51-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-51-46"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-52-03"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-52-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-52-05"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-52-05"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-52-15"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-52-16"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-52-17"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-52-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-52-29"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-52-30"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-52-31"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-52-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-52-39"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-52-40"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-52-41"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-52-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-52-52"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-52-53"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-52-54"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-52-54"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-52-59"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-53-00"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-53-01"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-53-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-53-08"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-53-09"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-53-10"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-53-10"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-53-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-53-38"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-53-50"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-54-02"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-54-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-54-09"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-54-10"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-54-10"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-54-10"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-54-16"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-54-17"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-54-18"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-54-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-54-27"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-54-28"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-54-29"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-54-29"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-54-32"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-54-33"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-54-34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-54-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-54-58"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-55-08"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-55-09"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-55-09"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-55-09"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-55-51"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-55-52"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-55-53"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-55-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-56-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-56-16"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-56-17"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-56-17"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-56-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-56-23"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-56-27"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-56-53"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-56-54"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-56-54"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-56-54"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-57-50"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-57-57"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-57-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-57-59"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-57-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-59-38"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-59-39"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-59-40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-59-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-59-46"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 06-59-57"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 06-59-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 06-59-59"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 06-59-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-00-11"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-00-12"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-00-19"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-00-20"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-00-21"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-00-21"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-00-35"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-00-39"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-00-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-00-53"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-00-54"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-01-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-01-19"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-01-21"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-01-21"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-01-21"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-01-25"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-01-27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-01-27"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-01-28"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-01-34"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-01-36"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-01-36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-01-36"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-02-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-02-24"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-02-25"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-02-26"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-02-26"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-02-41"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-02-42"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-02-42"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-02-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-05-59"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-05-59"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-06-01"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-06-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-10-39"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-10-40"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-10-41"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-10-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-16-32"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-16-34"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-16-35"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-16-35"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-19-20"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-19-21"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-19-22"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-19-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-19-42"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-19-43"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-19-44"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-19-44"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-22-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-22-33"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-22-43"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-22-44"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-22-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-22-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-22-50"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-22-51"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-22-52"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-22-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-25-20"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-25-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-25-26"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-25-27"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-25-27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-25-27"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-25-38"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-25-39"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-25-40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-25-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-25-49"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-25-50"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-25-50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-25-50"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"04-09-2025 07-28-50"}
+{"level":"error","message":"Email job failed: 6 Cannot read properties of undefined (reading 'subject')","stack":"TypeError: Cannot read properties of undefined (reading 'subject')\n    at Queue.<anonymous> (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\shared\\redis\\service.js:48:28)\n    at handlers.<computed> (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\bull\\lib\\queue.js:733:42)\n    at Queue.processJob (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\bull\\lib\\queue.js:1210:22)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"04-09-2025 07-28-50"}
+{"level":"info","message":"Custom Error","timestamp":"04-09-2025 07-28-58"}
+{"level":"info","message":"Custom Error","timestamp":"04-09-2025 07-29-08"}
+{"level":"info","message":" Connected to Redis","timestamp":"04-09-2025 07-30-10"}
+{"level":"info","message":"Transporter verified","timestamp":"04-09-2025 07-30-11"}
+{"level":"info","message":"MongoDB connected","timestamp":"04-09-2025 07-30-12"}
+{"level":"info","message":"Server running on port 5000","timestamp":"04-09-2025 07-30-12"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"04-09-2025 07-30-22"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"04-09-2025 07-30-22"}
+{"level":"info","message":"Custom Error","timestamp":"04-09-2025 07-31-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-05-12"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-05-13"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-05-14"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-05-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-20-00"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-20-01"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-20-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-20-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-20-44"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-20-45"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-20-46"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-20-46"}
+{"level":"error","message":"Error occurred","timestamp":"07-09-2025 10-25-35"}
+{"level":"error","message":"Error occurred","timestamp":"07-09-2025 10-26-31"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-26-39"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-26-40"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-27-20"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-27-20"}
+{"level":"error","message":"Error occurred","timestamp":"07-09-2025 10-27-26"}
+{"level":"error","message":"Error occurred","timestamp":"07-09-2025 10-28-10"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-29-39"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-29-40"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-29-41"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-29-41"}
+{"level":"error","message":"Error occurred pchstr must contain a $ as first char","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\argon2\\argon2.cjs:166:27)\n    at UserSchema.methods.comparePassword (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\user\\models\\user.js:79:24)\n    at login (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\user\\controllers\\login.js:15:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"07-09-2025 10-29-44"}
+{"level":"error","message":"Error occurred pchstr must contain a $ as first char","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\argon2\\argon2.cjs:166:27)\n    at UserSchema.methods.comparePassword (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\user\\models\\user.js:79:24)\n    at login (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\user\\controllers\\login.js:15:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"07-09-2025 10-30-54"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-33-39"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-33-39"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-35-26"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-35-30"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-35-33"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-35-33"}
+{"level":"info","message":" Email job enqueued for: phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-35-37"}
+{"level":"info","message":"Email sent to phoenixzitherflames@gmail.com","timestamp":"07-09-2025 10-35-37"}
+{"level":"info","message":"Custom Error","timestamp":"07-09-2025 10-35-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-36-46"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-36-50"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-36-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-36-55"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-36-57"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-36-58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-36-58"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-41-11"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-41-12"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-41-13"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-41-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-44-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-44-25"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-44-26"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-44-27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-44-28"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-45-02"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-45-03"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-45-04"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-45-04"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-45-45"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-45-46"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-45-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-45-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-47-31"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-47-32"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-47-33"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-47-33"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-47-56"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-47-57"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-47-58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-47-58"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-48-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-48-41"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-48-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-49-02"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-49-03"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-49-03"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-49-03"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"07-09-2025 10-49-21"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-50-43"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-50-44"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-50-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-50-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 10-51-15"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 10-51-16"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 10-51-17"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 10-51-17"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"07-09-2025 11-01-43"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-05-37"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-05-38"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-05-39"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-05-39"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-06-53"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-06-54"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-06-55"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-06-55"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-09-22"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-09-23"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-09-24"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-09-24"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-10-07"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-10-09"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-10-10"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-10-10"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-11-39"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-11-41"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-11-43"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-11-43"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-13-25"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-13-26"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-13-27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-13-27"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-13-48"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-13-49"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-13-49"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-13-49"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-15-55"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-15-57"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-15-59"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-15-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-16-03"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-16-05"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-16-08"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-16-08"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-17-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-17-09"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-17-17"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-17-18"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-17-19"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-17-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-17-56"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-17-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-17-58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-17-58"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-18-12"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-18-14"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-18-16"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-18-16"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-19-03"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-19-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-19-05"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-19-05"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-19-23"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-19-24"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-19-25"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-19-25"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-20-02"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-20-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-20-05"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-20-05"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-20-11"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-20-13"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-20-15"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-20-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-20-26"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-20-28"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-20-37"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-20-39"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-20-40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-20-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-21-44"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-21-45"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-21-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-21-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-24-01"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-24-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-24-07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-24-07"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-29-38"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-29-39"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-29-40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-29-40"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 11-29-46"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-32-00"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-32-13"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-32-14"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-32-15"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-32-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-32-48"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-32-50"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-32-51"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-32-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-33-10"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-33-11"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-33-12"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-33-12"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-33-17"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-33-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-33-30"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-33-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-33-43"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-33-44"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-33-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-33-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-34-49"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-34-50"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-34-52"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-34-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-35-01"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-35-02"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-35-03"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-35-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-35-26"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-35-27"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-35-30"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-35-30"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-38-08"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-38-10"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-38-11"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-38-11"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-38-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-38-24"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-38-26"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-38-31"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-38-33"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-38-38"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-38-49"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-38-55"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-38-57"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-38-58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-38-58"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-39-04"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-39-05"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-39-10"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-39-11"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-39-12"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-39-12"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-39-22"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-39-26"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-39-28"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-39-28"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-39-33"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-39-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-39-49"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-39-50"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-39-51"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-39-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-40-06"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-40-07"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-40-09"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-40-10"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-40-20"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-40-21"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-40-22"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-40-22"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 11-40-35"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-41-44"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-41-46"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-41-48"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-41-48"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 11-41-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-45-41"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-45-45"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-45-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-45-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-46-04"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-46-07"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-46-09"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-46-09"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 11-46-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-47-08"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-47-10"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-47-14"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-47-14"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 11-47-15"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"07-09-2025 11-50-54"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 11-50-57"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-55-53"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-55-56"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-55-59"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-55-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-56-29"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-56-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-56-37"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-56-39"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-56-40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-56-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 11-59-39"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 11-59-42"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 11-59-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 11-59-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-01-57"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-02-01"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-02-05"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-02-05"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-02-27"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-02-29"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-02-30"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-02-30"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-02-55"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-02-56"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-02-58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-02-58"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-03-03"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-03-06"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-03-06"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-03-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-04-00"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-04-01"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-04-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-04-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-05-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-05-10"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-05-12"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-05-16"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-05-16"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-05-47"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-05-49"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-05-50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-05-50"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-06-05"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-06-06"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-06-08"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-06-08"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"07-09-2025 12-06-29"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-06-48"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-06-50"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-06-50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-06-50"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-07-30"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-07-32"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-07-34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-07-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-08-10"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-08-11"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-08-12"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-08-12"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 12-08-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-09-05"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-09-06"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-09-06"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-09-06"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 12-09-09"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 12-09-32"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 12-09-34"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 12-09-35"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 12-09-35"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 12-09-36"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"07-09-2025 12-10-24"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 12-10-32"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"07-09-2025 17-21-55"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 17-21-57"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 17-26-30"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 17-26-32"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 17-26-34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 17-26-34"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 17-26-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 17-29-58"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 17-30-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 17-30-12"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 17-30-15"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 17-30-17"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 17-30-18"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 17-30-21"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 18-04-06"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 18-04-06"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 18-04-08"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 18-04-08"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 123","timestamp":"07-09-2025 18-04-11"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 18-43-14"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 18-43-15"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 18-43-17"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 18-43-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"07-09-2025 18-46-52"}
+{"level":"info","message":"Transporter verified","timestamp":"07-09-2025 18-46-54"}
+{"level":"info","message":"MongoDB connected","timestamp":"07-09-2025 18-46-58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"07-09-2025 18-46-58"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"08-09-2025 14-27-53"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-24-25"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-24-52"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-24-52"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-25-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-25-57"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-25-58"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-26-10"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-26-35"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-26-35"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-26-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-27-56"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-28-11"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-28-11"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-28-27"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-28-27"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-29-09"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-29-09"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-29-31"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-29-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-29-36"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-29-36"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-29-42"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-29-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-30-43"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-30-43"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-31-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-31-38"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-31-38"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-32-34"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-32-34"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-32-47"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-32-58"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-33-08"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-33-19"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-33-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-33-35"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-33-35"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-33-53"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-33-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-34-01"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 12-34-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-34-56"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-34-59"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-35-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-35-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-35-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-35-22"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-35-23"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-35-24"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-35-24"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-36-40"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-36-43"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-36-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-36-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-37-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-37-27"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-37-36"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-37-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-37-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-39-08"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-39-09"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-39-11"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-39-11"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-40-36"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-40-38"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-40-38"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-40-38"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-40-49"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-40-51"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-40-54"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-40-54"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-41-56"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-41-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-41-59"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-41-59"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-44-59"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-45-00"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-45-01"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-45-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-45-21"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-45-22"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-45-23"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-45-23"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-45-33"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-45-35"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-45-35"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-45-35"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-45-52"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-45-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-45-57"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-45-59"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-46-01"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-46-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-46-54"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-46-55"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-46-55"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-46-55"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-47-32"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-47-33"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-47-34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-47-34"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-47-38"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-47-42"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-47-43"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-47-44"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-47-44"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-48-27"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-48-28"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-48-29"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-48-29"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 12-53-43"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 12-53-45"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 12-53-46"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 12-53-46"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 14-00-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-03-38"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-03-40"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-03-42"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-03-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-10-19"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-10-24"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-10-24"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-10-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-14-40"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-14-41"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-14-42"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-14-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-14-59"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-15-03"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-15-04"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-15-04"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-15-26"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-15-33"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-15-36"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-15-38"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-15-38"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-20-57"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-20-59"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-20-59"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-21-28"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 14-32-08"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 68c02c5e8eab5b5b2f02e030","timestamp":"09-09-2025 14-32-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-47-05"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-47-06"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-47-07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-47-07"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-47-25"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-47-26"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-47-27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-47-27"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-47-36"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-47-39"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-47-40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-47-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-47-50"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-47-51"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-47-52"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-47-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-48-15"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-48-16"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-48-17"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-48-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-48-46"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-48-47"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-48-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-48-48"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 14-49-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-50-19"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-50-20"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-50-21"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-50-21"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-52-34"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-52-35"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-52-37"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-52-37"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-53-07"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-53-11"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-53-12"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-53-13"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-53-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-53-22"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-53-23"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-53-23"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-53-23"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-53-48"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-53-49"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-53-50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-53-50"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 14-54-04"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-54-28"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-54-29"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-54-29"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-54-29"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 14-54-32"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-54-54"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-55-04"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-55-05"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-55-05"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-55-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-58-34"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-58-36"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-58-41"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-58-42"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-58-44"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-58-44"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-59-05"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-59-06"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-59-07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-59-07"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 14-59-13"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 14-59-14"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 14-59-15"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 14-59-15"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 14-59-17"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-00-12"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-00-14"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-00-14"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-00-14"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-00-24"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-05-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-07-37"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-08-56"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-08-57"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-08-58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-08-58"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-09-12"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-09-16"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 15-09-33"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-09-41"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 15-14-34"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-14-42"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 15-14-58"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-15-05"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-19-47"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-19-49"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-19-54"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-19-55"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-19-56"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-19-56"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-20-05"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-20-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-20-52"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-20-53"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-20-54"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-20-54"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-21-00"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-21-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-24-42"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-24-44"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-24-45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-24-45"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-24-51"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-24-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-25-00"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-25-01"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-25-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-25-02"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-25-08"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-25-10"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-25-45"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-25-46"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-25-48"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-25-48"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-25-57"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-25-57"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-26-27"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-26-28"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-26-29"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-26-29"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-26-34"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-26-35"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-26-36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-26-36"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-26-44"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-26-44"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-32-08"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-32-10"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-32-11"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-32-11"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-32-20"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-32-21"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-35-21"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-35-23"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-35-24"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-35-24"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-35-44"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-35-45"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-35-46"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-35-46"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-35-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 15-36-24"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 15-36-25"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 15-36-26"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 15-36-26"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 15-36-33"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-05-23"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-05-24"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-05-30"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-05-31"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-05-32"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-05-32"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-05-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-06-30"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-06-35"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-06-36"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-06-37"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-06-37"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-06-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-06-57"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-06-58"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-06-59"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-06-59"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-07-08"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-07-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-11-39"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-11-40"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-11-41"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-11-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-11-49"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-11-51"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-12-14"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-12-16"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-12-18"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-12-18"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-12-19"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-12-20"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-12-23"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-12-23"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 16-15-46"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 16-15-48"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-16-16"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-16-17"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-16-18"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-16-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-17-44"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-17-46"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-17-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-17-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-18-01"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-18-03"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-18-04"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-18-04"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-18-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-18-31"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-18-32"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-18-33"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-18-33"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-18-41"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-18-42"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-18-47"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-18-49"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-18-50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-18-50"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-19-00"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-19-01"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-19-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-19-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-19-20"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-19-39"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-19-40"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-20-02"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-20-03"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-20-04"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-20-04"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-20-24"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-20-25"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-20-26"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-20-26"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-25-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-25-11"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-25-12"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-25-13"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-25-13"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-25-20"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-25-21"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-25-22"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-25-22"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-25-38"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-25-44"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-25-46"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-25-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-25-47"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-26-04"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-26-05"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-26-05"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-26-06"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-26-27"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-26-28"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-26-31"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-26-31"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-27-00"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-27-02"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-27-02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-27-02"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-27-18"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-27-22"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-27-23"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-27-24"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-27-24"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-29-23"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-29-24"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-29-25"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-29-25"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-30-18"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-30-19"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-30-20"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-30-20"}
+{"level":"warn","message":"User disconnected: 3f89052f-fe67-47bb-9f92-4d5f0ef51902","timestamp":"09-09-2025 16-30-27"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-30-30"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-32-51"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-32-52"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-32-53"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-32-53"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-33-13"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-33-14"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-33-15"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-33-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-33-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-33-47"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-33-48"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-33-49"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-33-49"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-33-59"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-34-01"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-34-01"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-34-37"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-34-38"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-34-39"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-34-39"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-34-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-35-16"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-35-18"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-35-19"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-35-19"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-35-27"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-35-28"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-35-34"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-35-35"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-35-35"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-35-35"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-35-41"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-35-42"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-35-43"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-35-43"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-35-44"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-36-20"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-36-20"}
+{"level":"warn","message":"User disconnected: 5f40824f-fe67-47bb-9f83-4d5f0ef51902","timestamp":"09-09-2025 16-37-42"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-37-45"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-37-45"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-38-39"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-38-41"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-38-44"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-38-44"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-38-47"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-38-48"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-38-50"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-38-51"}
+{"level":"warn","message":"User disconnected: 3f89052f-fe67-47bb-9f92-4d5f0ef51902","timestamp":"09-09-2025 16-39-30"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-39-34"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-39-34"}
+{"level":"warn","message":"User disconnected: 3f89052f-fe67-47bb-9f92-4d5f0ef51902","timestamp":"09-09-2025 16-39-39"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-39-41"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-39-41"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-39-56"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-40-08"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-40-09"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-40-11"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-40-11"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-40-14"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-40-14"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-40-15"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-40-15"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-43-13"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-43-14"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-43-23"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-43-29"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-43-34"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-43-36"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-43-36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-43-36"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-43-45"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-43-46"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-43-47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-43-47"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-43-48"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-43-49"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-43-50"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-43-50"}
+{"level":"info","message":"Transporter verified","timestamp":"09-09-2025 16-44-00"}
+{"level":"error","message":"Redis Error Connection timeout","stack":"Error: Connection timeout\n    at Socket.onTimeout (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\@redis\\client\\dist\\lib\\client\\socket.js:180:46)\n    at Object.onceWrapper (node:events:632:28)\n    at Socket.emit (node:events:518:28)\n    at Socket._onTimeout (node:net:589:8)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"09-09-2025 16-44-03"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 16-44-13"}
+{"level":"info","message":"MongoDB connected","timestamp":"09-09-2025 16-44-15"}
+{"level":"info","message":"Server running on port 5000","timestamp":"09-09-2025 16-44-15"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-44-18"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-44-18"}
+{"level":"info","message":" User 5f40824f-fe67-47bb-9f83-4d5f0ef51902 joined chat 68c04815ac8e3971a1819fda","timestamp":"09-09-2025 16-44-19"}
+{"level":"info","message":" User 3f89052f-fe67-47bb-9f92-4d5f0ef51902 sent message","timestamp":"09-09-2025 16-44-19"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 20-12-59"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 20-13-16"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 20-13-28"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 20-13-28"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 20-14-22"}
+{"level":"error","message":"Failed to connect to Mongo","timestamp":"09-09-2025 20-14-22"}
+{"level":"error","message":"Redis Error Connection timeout","stack":"Error: Connection timeout\n    at Socket.onTimeout (C:\\Users\\PHOENIX.FLAMES\\Desktop\\node-express-course-main\\Chat-app\\node_modules\\@redis\\client\\dist\\lib\\client\\socket.js:180:46)\n    at Object.onceWrapper (node:events:632:28)\n    at Socket.emit (node:events:518:28)\n    at Socket._onTimeout (node:net:589:8)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"09-09-2025 20-25-52"}
+{"level":"info","message":" Connected to Redis","timestamp":"09-09-2025 20-25-53"}
